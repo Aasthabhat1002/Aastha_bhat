@@ -13,11 +13,11 @@
 
 ## About Me
 
-I did a BA in Economics before this MSc, so my instinct on any data problem is to ask what's actually causing what, not just what correlates with what. I bring that to data science work generally: pricing, retention, forecasting, segmentation, wherever a business decision hinges on a causal claim rather than a correlation.
+Economics trained me to distrust a number until I know what it's being compared to. At DAZN, a lot of what looked like a successful campaign in the raw numbers turned out to be seasonality once we checked it properly. That's the habit I bring to data science: before a model or a dashboard gets to say something caused something else, I want to see the comparison that backs it up.
 
 - Currently finishing my MSc dissertation on land ownership restrictions and manufacturing investment in India, supervised by Professor Nathan Canen
-- A year as a Business Analyst at DAZN, automating BI pipelines and reporting across multi million record datasets
-- Economics Excellence Scholarship recipient, University of Warwick (covers full tuition)
+- A year as a Business Analyst at DAZN, automating BI pipelines and reporting across multi-million record datasets
+- Economics Excellence Scholarship recipient, University of Warwick
 - Core toolkit: causal inference (DiD, staggered DiD, synthetic control, IV, GMM), panel econometrics, and applied ML (CNNs, causal ML)
 - Reach me at **bhat.aastha10@gmail.com**
 
