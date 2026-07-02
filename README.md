@@ -64,7 +64,7 @@ Do constitutionally entrenched land ownership restrictions suppress manufacturin
 </td>
 <td width="50%" valign="top">
 
-### [Satellite Imagery & India's PLI Scheme](https://github.com/Aastha_bhat/satellite-pli-causal-inference)
+### [Satellite Imagery & India's PLI Scheme](https://github.com/Aasthabhat1002/satellite-pli-causal-inference)
 **Topics in Data Science, 2026**
 
 An end-to-end pipeline turning raw Sentinel-2 satellite imagery into a causal estimate of India's $26B industrial policy, built because self-reported government stats aren't independently verifiable.
@@ -81,7 +81,7 @@ An end-to-end pipeline turning raw Sentinel-2 satellite imagery into a causal es
 <tr>
 <td width="50%" valign="top">
 
-### [ESG-R&D & Cost of Capital: Japan](https://github.com/Aastha_bhat/esg-rd-japan-financing-costs)
+### [ESG-R&D & Cost of Capital: Japan](https://github.com/Aasthabhat1002/esg-rd-japan-financing-costs)
 **Group Research Paper, 2026**
 
 Does ESG-oriented R&D spending lower financing costs for Japanese tech firms, and does the answer differ for equity versus debt investors? Two-way fixed effects on 823 firm-year observations, 2010 to 2025.
@@ -119,8 +119,8 @@ Right now I'm working on getting more comfortable with production ML, moving cod
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aastha_bhat&show_icons=true&theme=transparent&title_color=0A192F&text_color=0A192F&icon_color=0A192F&border_color=0A192F&hide_border=false" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aastha_bhat&theme=default&background=FFFFFF&stroke=0A192F&ring=0A192F&fire=0A192F&currStreakLabel=0A192F&hide_border=false" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aasthabhat1002&show_icons=true&theme=transparent&title_color=0A192F&text_color=0A192F&icon_color=0A192F&border_color=0A192F&hide_border=false" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aasthabhat1002&theme=default&background=FFFFFF&stroke=0A192F&ring=0A192F&fire=0A192F&currStreakLabel=0A192F&hide_border=false" width="48%"/>
 
 </div>
 
