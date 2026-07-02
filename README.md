@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Aastha%20Bhat&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Causal%20Inference%20%7C%20Machine%20Learning&descAlignY=58&descSize=18&descColor=FFFFFF" width="100%"/>
 
-### MSc Economics & Data Science, University of Warwick (2026) · Ex-Business Analyst @ DAZN
-### Bridging causal inference and machine learning to answer real economic questions
+### MSc Economics & Data Science, University of Warwick (2026) · Ex-Business Analyst, DAZN
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aasthabhat10)
 [![Email](https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhat.aastha10@gmail.com)
@@ -14,13 +13,13 @@
 
 ## About Me
 
-I'm an economist-turned-data-scientist looking to move into **data science / applied ML roles in the UK**, with a longer-term interest in **causal inference and machine learning at the intersection of econ and data science**.
+I did a BA in Economics before this MSc, so my instinct on any data problem is to ask what's actually causing what, not just what correlates with what. I bring that to data science work generally: pricing, retention, forecasting, segmentation, wherever a business decision hinges on a causal claim rather than a correlation.
 
-- 🔭 Currently writing my **MSc dissertation** on land ownership restrictions and manufacturing investment in India
-- 💼 A year as a **Business Analyst at DAZN**, automating BI pipelines across multi-million record datasets
-- 🎓 Fully-funded **Economics Excellence Scholarship**, University of Warwick
-- 🌱 Core toolkit: causal inference (DiD, Staggered DiD, Synthetic Control, IV, GMM), panel econometrics, and applied ML (CNNs, causal ML)
-- 📫 Reach me at **bhat.aastha10@gmail.com**
+- Currently finishing my MSc dissertation on land ownership restrictions and manufacturing investment in India, supervised by Professor Nathan Canen
+- A year as a Business Analyst at DAZN, automating BI pipelines and reporting across multi million record datasets
+- Economics Excellence Scholarship recipient, University of Warwick (covers full tuition)
+- Core toolkit: causal inference (DiD, staggered DiD, synthetic control, IV, GMM), panel econometrics, and applied ML (CNNs, causal ML)
+- Reach me at **bhat.aastha10@gmail.com**
 
 <br>
 
@@ -50,29 +49,29 @@ I'm an economist-turned-data-scientist looking to move into **data science / app
 <tr>
 <td width="50%" valign="top">
 
-### 🇮🇳 [Land Restrictions & Manufacturing Investment](https://github.com/Aastha_bhat/land-restrictions-manufacturing-india)
-**🚧 In Progress — MSc Dissertation, 2026**
+### [Land Restrictions & Manufacturing Investment](https://github.com/Aastha_bhat/land-restrictions-manufacturing-india)
+**In Progress, MSc Dissertation, 2026**
 
-Do constitutionally-entrenched land ownership restrictions suppress manufacturing investment in India? Triple-difference design on **298,180 firm-year observations** (ASI, 2003–2023, 18 states), exploiting within-state-year variation in land intensity.
+Do constitutionally entrenched land ownership restrictions suppress manufacturing investment in India? Triple-difference design on 298,180 firm-year observations (ASI, 2003 to 2023, 18 states), exploiting within-state-year variation in land intensity.
 
-- Triple-difference (DDD) with state×year FE, isolating identification from *within-state, within-year* firm-type comparisons
+- Triple-difference (DDD) with state by year fixed effects, isolating identification from within-state, within-year firm-type comparisons
 - Synthetic control on Jammu & Kashmir's 2019 Article 35A abrogation as a natural experiment
-- Double Machine Learning (LASSO) as a robustness layer against a DDD baseline
-- Wild cluster bootstrap inference (18 clusters, following Cameron & Miller 2015)
+- Double machine learning (LASSO) as a robustness layer against the DDD baseline
+- Wild cluster bootstrap inference (18 clusters, following Cameron and Miller 2015)
 
 `Triple-Difference` `Synthetic Control` `Double ML` `Wild Cluster Bootstrap`
 
 </td>
 <td width="50%" valign="top">
 
-### 🛰️ [Satellite Imagery & India's PLI Scheme](https://github.com/Aastha_bhat/satellite-pli-causal-inference)
+### [Satellite Imagery & India's PLI Scheme](https://github.com/Aastha_bhat/satellite-pli-causal-inference)
 **Topics in Data Science, 2026**
 
-An end-to-end pipeline turning raw Sentinel-2 satellite imagery into a causal estimate of India's $26B industrial policy — because self-reported government stats aren't independently verifiable.
+An end-to-end pipeline turning raw Sentinel-2 satellite imagery into a causal estimate of India's $26B industrial policy, built because self-reported government stats aren't independently verifiable.
 
 - Fine-tuned CNN on EuroSAT (10 land-cover classes) to classify industrial land use, correcting for NDBI's bare-soil/rooftop confound
 - Built a Bartik (shift-share) treatment variable from CNN-derived industrial shares across 28 states
-- Applied Callaway–Sant'Anna staggered DiD for India's 3-wave PLI rollout
+- Applied Callaway-Sant'Anna staggered DiD for India's three-wave PLI rollout
 - Full model diagnostics: learning rate sweeps, overfitting audits, per-class confusion analysis
 
 `CNN` `TensorFlow` `Google Earth Engine` `Callaway-Sant'Anna DiD` `Bartik Instrument`
@@ -82,28 +81,37 @@ An end-to-end pipeline turning raw Sentinel-2 satellite imagery into a causal es
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [ESG-R&D & Cost of Capital: Japan](https://github.com/Aastha_bhat/esg-rd-japan-financing-costs)
+### [ESG-R&D & Cost of Capital: Japan](https://github.com/Aastha_bhat/esg-rd-japan-financing-costs)
 **Group Research Paper, 2026**
 
-Does ESG-oriented R&D spending lower financing costs for Japanese tech firms — and does the answer differ for equity vs. debt investors? Two-way fixed effects on **823 firm-year observations**, 2010–2025.
+Does ESG-oriented R&D spending lower financing costs for Japanese tech firms, and does the answer differ for equity versus debt investors? Two-way fixed effects on 823 firm-year observations, 2010 to 2025.
 
-- Entropy balancing + PSM to correct for non-random ESG disclosure (mean bias 29.3% → 10.3%)
-- Lagged TWFE reveals a delayed equity effect (β = −0.122 at 2-year horizon) with no debt effect — evidence for Japan's relationship-banking channel
-- ESG-pillar heterogeneity analysis (E/S/G decomposition)
+- Entropy balancing and PSM to correct for non-random ESG disclosure (mean bias 29.3% to 10.3%)
+- Lagged TWFE reveals a delayed equity effect (β = −0.122 at the two-year horizon) with no debt effect, consistent with Japan's relationship-banking channel
+- ESG-pillar heterogeneity analysis (environmental, social, governance decomposition)
 
 `Two-Way Fixed Effects` `Entropy Balancing` `PSM` `Panel Data` `Stata` `R`
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 More coming soon
-Building out my DAZN BI/automation work and additional applied ML projects as public repos.
+### More coming soon
 
-Open to collaboration on causal inference × ML projects — feel free to reach out!
+Building out my DAZN BI and automation work, plus additional applied ML projects, as public repos.
+
+Open to collaboration on causal inference and machine learning projects, feel free to reach out.
 
 </td>
 </tr>
 </table>
+
+<br>
+
+## Where I'm Headed
+
+I'm applying for data scientist, applied ML, and decision science roles in the UK. I'm not narrowly focused on one industry: I'm interested in any product or business context where causal inference and machine learning can settle a real decision, whether that's pricing, retention, experimentation, or personalization. My economics background is what I lean on most, since figuring out whether something actually caused an outcome, rather than just correlated with it, is what most product data science questions come down to.
+
+Right now I'm working on getting more comfortable with production ML, moving code out of notebooks and into something that could survive being deployed, and reading into how large-scale experimentation platforms are built and run.
 
 <br>
 
