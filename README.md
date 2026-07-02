@@ -16,8 +16,8 @@
 Economics trained me to distrust a number until I know what it's being compared to. At DAZN, a lot of what looked like a successful campaign in the raw numbers turned out to be seasonality once we checked it properly. That's the habit I bring to data science: before a model or a dashboard gets to say something caused something else, I want to see the comparison that backs it up.
 
 - Currently finishing my MSc dissertation on land ownership restrictions and manufacturing investment in India, supervised by Professor Nathan Canen
-- A year as a Business Analyst at DAZN, automating BI pipelines and reporting across multi-million record datasets
-- Economics Excellence Scholarship recipient, University of Warwick
+- A year as a Business Analyst at DAZN, automating BI pipelines and reporting across multi million record datasets
+- Economics Excellence Scholarship recipient, University of Warwick (covers full tuition)
 - Core toolkit: causal inference (DiD, staggered DiD, synthetic control, IV, GMM), panel econometrics, and applied ML (CNNs, causal ML)
 - Reach me at **bhat.aastha10@gmail.com**
 
@@ -49,7 +49,7 @@ Economics trained me to distrust a number until I know what it's being compared 
 <tr>
 <td width="50%" valign="top">
 
-### [Land Restrictions & Manufacturing Investment](https://github.com/Aastha_bhat/land-restrictions-manufacturing-india)
+### [Land Restrictions & Manufacturing Investment](https://github.com/Aasthabhat1002/land-restrictions-manufacturing-india)
 **In Progress, MSc Dissertation, 2026**
 
 Do constitutionally entrenched land ownership restrictions suppress manufacturing investment in India? Triple-difference design on 298,180 firm-year observations (ASI, 2003 to 2023, 18 states), exploiting within-state-year variation in land intensity.
@@ -82,7 +82,7 @@ An end-to-end pipeline turning raw Sentinel-2 satellite imagery into a causal es
 <td width="50%" valign="top">
 
 ### [ESG-R&D & Cost of Capital: Japan](https://github.com/Aastha_bhat/esg-rd-japan-financing-costs)
-**Research Paper, 2026**
+**Group Research Paper, 2026**
 
 Does ESG-oriented R&D spending lower financing costs for Japanese tech firms, and does the answer differ for equity versus debt investors? Two-way fixed effects on 823 firm-year observations, 2010 to 2025.
 
