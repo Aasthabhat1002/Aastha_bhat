@@ -17,7 +17,7 @@ Economics trained me to distrust a number until I know what it's being compared 
 
 - Currently finishing my MSc dissertation on land ownership restrictions and manufacturing investment in India, supervised by Professor Nathan Canen
 - A year as a Business Analyst at DAZN, automating BI pipelines and reporting across multi million record datasets
-- Economics Excellence Scholarship recipient, University of Warwick (covers full tuition)
+- Economics Excellence Scholarship recipient, University of Warwick
 - Core toolkit: causal inference (DiD, staggered DiD, synthetic control, IV, GMM), panel econometrics, and applied ML (CNNs, causal ML)
 - Reach me at **bhat.aastha10@gmail.com**
 
